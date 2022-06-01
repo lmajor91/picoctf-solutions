@@ -1,0 +1,104 @@
+/lib64/ld-linux-x86-64.so.2
+A0[1
+__cxa_finalize
+__libc_start_main
+puts
+stdin
+fread
+memcmp
+__stack_chk_fail
+libc.so.6
+GLIBC_2.4
+GLIBC_2.2.5
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+AVAUATUSH
+@28A
+|$@H
+D$_H
+D$HH
+d$ H
+\$ Hc
+\$ H9\$0u
+[]A\A]A^A_
+D$`L
+2D$d
+D$h2
+2D$l
+2D$a
+2D$e
+	2D$i
+2D$m
+2D$b
+2D$f
+2D$j
+2D$nD
+2D$c
+2D$gD
+2D$k
+2D$o
+\$(A
+D$)E
+t$*E1
+D$+E
+L$,A1
+T$.D
+D$/D1
+D2l$
+@2t$
+L$-1
+L$(A
+T$)A
+L$.A2w	
+L9|$8
+2\$S2D$P@2t$ZD
+D2t$W
+2\$U
+2D$QD
+2\$VD2d$^D
+\$[D2L$RD2T$TD
+D2l$X
+D2\$Y
+D2D$]@2t$\
+2L$_
+A |$
+a \$
+I t$
+u3UH
+[]A\A]A^A_
+I heard you wanted to bargain for a flag... whatcha got?
+Nope, come back later
+Yep, that's it!
+c|w{
+9JLX
+~=d]
+;r6k
+;*3$"
+GCC: (GNU) 10.2.0
+.shstrtab
+.interp
+.note.gnu.property
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment

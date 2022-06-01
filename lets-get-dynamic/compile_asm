@@ -1,0 +1,6 @@
+#!/bin/sh
+
+as chall.S -o run.out
+ld run.out -o prog -e main -lc
+rm run.out
+

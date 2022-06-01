@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+
+"""
+the solution here is realizing that the text given to us is from a CNC
+machine, this machine controls a Lathe or mill
+
+now what do lathes do? they cut wood, so the instructions here
+must be on how to cut the flag into wood. We need to visualize the
+instructions and see what the lathe makes.
+"""
+
+print("flag: picoCTF{num3r1cal_c0ntr0l_a067637b}")
