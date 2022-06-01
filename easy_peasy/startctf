@@ -1,0 +1,4 @@
+#!/bin/sh
+nc mercury.picoctf.net 64260
+echo ""
+
